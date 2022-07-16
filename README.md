@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Sasanur ======================================================================================================================================  Georgia Tech Computer Science Student -------------------------------------  I am a developer who's interested in how the world works and I love to learn something new everyday.  * 🌍  I'm based in Irvine, California * ✉️  You can contact me at [asasanur@gatech.edu](mailto:asasanur@gatech.edu)
+Hi 👋 My name is Aditya Sasanur ===============================  Georgia Tech Computer Science Student -------------------------------------  I am a developer who's interested in how the world works and I love to learn something new everyday.  * 🌍  I'm based in Irvine, California * ✉️  You can contact me at [asasanur@gatech.edu](mailto:asasanur@gatech.edu)
 
 ### Skills
 
