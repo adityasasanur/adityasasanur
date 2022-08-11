@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aditya Sasanur</h1>
-<h3 align="left">I am a developer who's interested in how the world works and I love to learn something new everyday. With my background in engineering as well as my ability to pick up new skills quickly, I look forward to creating...well everything.</h3>
+<h3 align="left">I am a developer who's interested in how the world works and I love to learn something new everyday. With my background in engineering as well as my ability to pick up new skills quickly, I look forward to learning...well everything.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
